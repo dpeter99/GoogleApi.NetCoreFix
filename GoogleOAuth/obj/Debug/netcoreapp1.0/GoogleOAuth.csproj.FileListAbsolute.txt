@@ -1,0 +1,9 @@
+P:\c#\Tests\GoogleOAuth\GoogleOAuth\bin\Debug\netcoreapp1.0\GoogleOAuth.deps.json
+P:\c#\Tests\GoogleOAuth\GoogleOAuth\bin\Debug\netcoreapp1.0\GoogleOAuth.runtimeconfig.json
+P:\c#\Tests\GoogleOAuth\GoogleOAuth\bin\Debug\netcoreapp1.0\GoogleOAuth.runtimeconfig.dev.json
+P:\c#\Tests\GoogleOAuth\GoogleOAuth\bin\Debug\netcoreapp1.0\GoogleOAuth.dll
+P:\c#\Tests\GoogleOAuth\GoogleOAuth\obj\Debug\netcoreapp1.0\GoogleOAuth.csprojResolveAssemblyReference.cache
+P:\c#\Tests\GoogleOAuth\GoogleOAuth\obj\Debug\netcoreapp1.0\GoogleOAuth.AssemblyInfo.cs
+P:\c#\Tests\GoogleOAuth\GoogleOAuth\bin\Debug\netcoreapp1.0\GoogleOAuth.pdb
+P:\c#\Tests\GoogleOAuth\GoogleOAuth\obj\Debug\netcoreapp1.0\GoogleOAuth.dll
+P:\c#\Tests\GoogleOAuth\GoogleOAuth\obj\Debug\netcoreapp1.0\GoogleOAuth.pdb
