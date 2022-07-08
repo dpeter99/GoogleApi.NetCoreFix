@@ -8,7 +8,7 @@
   <ItemGroup>
     <PackageReference Include="Google.Apis.Auth" Version="1.21.0" />
     <PackageReference Include="Google.Apis.Books.v1" Version="1.21.0.705" />
-    <PackageReference Include="Microsoft.Net.Http.Server" Version="1.1.0" />
+    <PackageReference Include="Microsoft.Net.Http.Server" Version="1.1.4" />
     <PackageReference Include="System.Runtime.Extensions" Version="4.3.0" />
   </ItemGroup>
 
